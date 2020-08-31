@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-crash-todo/static/css/main.d12423a4.chunk.css",
+    "main.js": "/react-crash-todo/static/js/main.c64f7806.chunk.js",
+    "main.js.map": "/react-crash-todo/static/js/main.c64f7806.chunk.js.map",
+    "runtime-main.js": "/react-crash-todo/static/js/runtime-main.7d18b92c.js",
+    "runtime-main.js.map": "/react-crash-todo/static/js/runtime-main.7d18b92c.js.map",
+    "static/js/2.cc226504.chunk.js": "/react-crash-todo/static/js/2.cc226504.chunk.js",
+    "static/js/2.cc226504.chunk.js.map": "/react-crash-todo/static/js/2.cc226504.chunk.js.map",
+    "index.html": "/react-crash-todo/index.html",
+    "precache-manifest.fa51c24fd30865fd2fcfe451d8e9521f.js": "/react-crash-todo/precache-manifest.fa51c24fd30865fd2fcfe451d8e9521f.js",
+    "service-worker.js": "/react-crash-todo/service-worker.js",
+    "static/css/main.d12423a4.chunk.css.map": "/react-crash-todo/static/css/main.d12423a4.chunk.css.map",
+    "static/js/2.cc226504.chunk.js.LICENSE.txt": "/react-crash-todo/static/js/2.cc226504.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7d18b92c.js",
+    "static/js/2.cc226504.chunk.js",
+    "static/css/main.d12423a4.chunk.css",
+    "static/js/main.c64f7806.chunk.js"
+  ]
+}
