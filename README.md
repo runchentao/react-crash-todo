@@ -1,3 +1,8 @@
+# react-crash-todo
+
+This project is based on the [React JS Crash Course](https://www.youtube.com/watch?v=sBws8MSXN7A&list=PLillGF-RfqbYeckUaD1z6nviTp31GLTH8&index=5&t=0s) by Traversy Media.
+
+#
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,4 +71,3 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
-# react-crash-todo
